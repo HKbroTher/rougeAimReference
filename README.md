@@ -17,3 +17,9 @@ The following tools are required to compile and run this project:
 Follow these steps to build and run the code on your local machine.
 
 ### Step 1: Clone the Repository
+Open your terminal or command prompt and run:
+```bash
+git clone <YOUR_REPOSITORY_LINK_HERE>
+cd <YOUR_REPOSITORY_FOLDER_NAME>
+
+### Step 2: Clone the Repository
