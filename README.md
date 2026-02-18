@@ -14,7 +14,7 @@ The application implements a standard "Game Loop" architecture, featuring:
 ## 2. Public Repository
 The source code for this project is hosted at the following public git repository:
 
-**[INSERT YOUR GITHUB REPOSITORY LINK HERE]**
+**[[INSERT YOUR GITHUB REPOSITORY LINK HERE](https://github.com/HKbroTher/rougeAimReference.git)]**
 
 ## 3. Environment Requirements
 To compile and run this project, the following environment is required:
