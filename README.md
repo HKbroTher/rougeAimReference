@@ -21,5 +21,9 @@ Open your terminal or command prompt and run:
 ```bash
 git clone <YOUR_REPOSITORY_LINK_HERE>
 cd <YOUR_REPOSITORY_FOLDER_NAME>
+```
 
 ### Step 2: Clone the Repository
+It is best practice to use a virtual environment to isolate project dependencies.
+
+On Windows:
