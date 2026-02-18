@@ -13,7 +13,6 @@ The following tools are required to compile and run this project:
 * **OS**: Tested on Windows 10/11 and macOS Sequoia.
 
 ## 3. Setup and Execution Instructions
-
 Follow these steps to build and run the code on your local machine.
 
 ### Step 1: Clone the Repository
@@ -26,4 +25,26 @@ cd <YOUR_REPOSITORY_FOLDER_NAME>
 ### Step 2: Clone the Repository
 It is best practice to use a virtual environment to isolate project dependencies.
 
-On Windows:
+* **Windows**:
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
+
+* **MacOS/Linux**:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### Step 3: Install Dependencies
+Install the required Pygame library using pip:
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Run the Application
+Once the dependencies are installed, execute the main script:
+```bash
+python aim_trainer.py
+```
